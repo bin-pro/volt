@@ -1,0 +1,1557 @@
+[
+  {
+    "id": 1,
+    "name": "벤치프레스",
+    "group": "가슴",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "push"
+    ],
+    "chosung": "ㅂㅊㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 2,
+    "name": "인클라인 벤치프레스",
+    "group": "가슴",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "push",
+      "upper-chest"
+    ],
+    "chosung": "ㅇㅋㄹㅇㅂㅊㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 3,
+    "name": "디클라인 벤치프레스",
+    "group": "가슴",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "push",
+      "lower-chest"
+    ],
+    "chosung": "ㄷㅋㄹㅇㅂㅊㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 4,
+    "name": "덤벨 벤치프레스",
+    "group": "가슴",
+    "equipment": "덤벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "push"
+    ],
+    "chosung": "ㄷㅂㅂㅊㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 5,
+    "name": "인클라인 덤벨프레스",
+    "group": "가슴",
+    "equipment": "덤벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "push",
+      "upper-chest"
+    ],
+    "chosung": "ㅇㅋㄹㅇㄷㅂㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 6,
+    "name": "디클라인 덤벨프레스",
+    "group": "가슴",
+    "equipment": "덤벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "push",
+      "lower-chest"
+    ],
+    "chosung": "ㄷㅋㄹㅇㄷㅂㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 7,
+    "name": "체스트 프레스 머신",
+    "group": "가슴",
+    "equipment": "머신",
+    "restSeconds": 120,
+    "tags": [
+      "machine",
+      "push"
+    ],
+    "chosung": "ㅊㅅㅌㅍㄹㅅㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 8,
+    "name": "인클라인 체스트 프레스 머신",
+    "group": "가슴",
+    "equipment": "머신",
+    "restSeconds": 120,
+    "tags": [
+      "machine",
+      "push",
+      "upper-chest"
+    ],
+    "chosung": "ㅇㅋㄹㅇㅊㅅㅌㅍㄹㅅㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 9,
+    "name": "펙덱 플라이 머신",
+    "group": "가슴",
+    "equipment": "머신",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "machine"
+    ],
+    "chosung": "ㅍㄷㅍㄹㅇㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 10,
+    "name": "케이블 크로스오버",
+    "group": "가슴",
+    "equipment": "케이블",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "cable"
+    ],
+    "chosung": "ㅋㅇㅂㅋㄹㅅㅇㅂ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 11,
+    "name": "로우 케이블 플라이",
+    "group": "가슴",
+    "equipment": "케이블",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "cable",
+      "upper-chest"
+    ],
+    "chosung": "ㄹㅇㅋㅇㅂㅍㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 12,
+    "name": "덤벨 플라이",
+    "group": "가슴",
+    "equipment": "덤벨",
+    "restSeconds": 90,
+    "tags": [
+      "isolation"
+    ],
+    "chosung": "ㄷㅂㅍㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 13,
+    "name": "인클라인 덤벨 플라이",
+    "group": "가슴",
+    "equipment": "덤벨",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "upper-chest"
+    ],
+    "chosung": "ㅇㅋㄹㅇㄷㅂㅍㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 14,
+    "name": "스미스 인클라인 프레스",
+    "group": "가슴",
+    "equipment": "머신",
+    "restSeconds": 150,
+    "tags": [
+      "machine",
+      "push",
+      "upper-chest"
+    ],
+    "chosung": "ㅅㅁㅅㅇㅋㄹㅇㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 15,
+    "name": "딥스",
+    "group": "가슴",
+    "equipment": "맨몸",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "bodyweight",
+      "lower-chest"
+    ],
+    "chosung": "ㄷㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 16,
+    "name": "푸시업",
+    "group": "가슴",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "compound",
+      "bodyweight"
+    ],
+    "chosung": "ㅍㅅㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 17,
+    "name": "데드리프트",
+    "group": "등",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "pull",
+      "posterior"
+    ],
+    "chosung": "ㄷㄷㄹㅍㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 18,
+    "name": "스모 데드리프트",
+    "group": "등",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "pull",
+      "posterior"
+    ],
+    "chosung": "ㅅㅁㄷㄷㄹㅍㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 19,
+    "name": "바벨로우",
+    "group": "등",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "pull"
+    ],
+    "chosung": "ㅂㅂㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 20,
+    "name": "언더그립 바벨로우",
+    "group": "등",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "pull",
+      "biceps"
+    ],
+    "chosung": "ㅇㄷㄱㄹㅂㅂㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 21,
+    "name": "펜들레이 로우",
+    "group": "등",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "pull"
+    ],
+    "chosung": "ㅍㄷㄹㅇㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 22,
+    "name": "티바 로우",
+    "group": "등",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "pull"
+    ],
+    "chosung": "ㅌㅂㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 23,
+    "name": "티바 로우 머신",
+    "group": "등",
+    "equipment": "머신",
+    "restSeconds": 120,
+    "tags": [
+      "machine",
+      "pull"
+    ],
+    "chosung": "ㅌㅂㄹㅇㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 24,
+    "name": "시티드 로우 머신",
+    "group": "등",
+    "equipment": "머신",
+    "restSeconds": 120,
+    "tags": [
+      "machine",
+      "pull"
+    ],
+    "chosung": "ㅅㅌㄷㄹㅇㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 25,
+    "name": "랫풀다운",
+    "group": "등",
+    "equipment": "케이블",
+    "restSeconds": 90,
+    "tags": [
+      "machine",
+      "pull",
+      "vertical"
+    ],
+    "chosung": "ㄹㅍㄷㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 26,
+    "name": "클로즈그립 랫풀다운",
+    "group": "등",
+    "equipment": "케이블",
+    "restSeconds": 90,
+    "tags": [
+      "machine",
+      "pull",
+      "vertical"
+    ],
+    "chosung": "ㅋㄹㅈㄱㄹㄹㅍㄷㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 27,
+    "name": "케이블 시티드 로우",
+    "group": "등",
+    "equipment": "케이블",
+    "restSeconds": 90,
+    "tags": [
+      "machine",
+      "pull",
+      "horizontal"
+    ],
+    "chosung": "ㅋㅇㅂㅅㅌㄷㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 28,
+    "name": "스트레이트암 풀다운",
+    "group": "등",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "cable"
+    ],
+    "chosung": "ㅅㅌㄹㅇㅌㅇㅍㄷㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 29,
+    "name": "풀업",
+    "group": "등",
+    "equipment": "맨몸",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "bodyweight",
+      "vertical"
+    ],
+    "chosung": "ㅍㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 30,
+    "name": "친업",
+    "group": "등",
+    "equipment": "맨몸",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "bodyweight",
+      "vertical"
+    ],
+    "chosung": "ㅊㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 31,
+    "name": "어시스트 풀업 머신",
+    "group": "등",
+    "equipment": "머신",
+    "restSeconds": 90,
+    "tags": [
+      "machine",
+      "vertical"
+    ],
+    "chosung": "ㅇㅅㅅㅌㅍㅇㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 32,
+    "name": "덤벨로우",
+    "group": "등",
+    "equipment": "덤벨",
+    "restSeconds": 90,
+    "tags": [
+      "compound",
+      "pull"
+    ],
+    "chosung": "ㄷㅂㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 33,
+    "name": "원암 덤벨로우",
+    "group": "등",
+    "equipment": "덤벨",
+    "restSeconds": 90,
+    "tags": [
+      "compound",
+      "pull"
+    ],
+    "chosung": "ㅇㅇㄷㅂㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 34,
+    "name": "체스트 서포티드 덤벨로우",
+    "group": "등",
+    "equipment": "덤벨",
+    "restSeconds": 90,
+    "tags": [
+      "compound",
+      "pull"
+    ],
+    "chosung": "ㅊㅅㅌㅅㅍㅌㄷㄷㅂㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 35,
+    "name": "페이스풀",
+    "group": "등",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "rear-delt",
+      "cable"
+    ],
+    "chosung": "ㅍㅇㅅㅍ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 36,
+    "name": "백 익스텐션",
+    "group": "등",
+    "equipment": "맨몸",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "lower-back"
+    ],
+    "chosung": "ㅂㅇㅅㅌㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 37,
+    "name": "슈러그",
+    "group": "등",
+    "equipment": "덤벨",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "trap"
+    ],
+    "chosung": "ㅅㄹㄱ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 38,
+    "name": "바벨 슈러그",
+    "group": "등",
+    "equipment": "바벨",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "trap"
+    ],
+    "chosung": "ㅂㅂㅅㄹㄱ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 39,
+    "name": "오버헤드 프레스",
+    "group": "어깨",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "push"
+    ],
+    "chosung": "ㅇㅂㅎㄷㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 40,
+    "name": "밀리터리 프레스",
+    "group": "어깨",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "push"
+    ],
+    "chosung": "ㅁㄹㅌㄹㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 41,
+    "name": "비하인드넥 프레스",
+    "group": "어깨",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "push"
+    ],
+    "chosung": "ㅂㅎㅇㄷㄴㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 42,
+    "name": "덤벨 숄더프레스",
+    "group": "어깨",
+    "equipment": "덤벨",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "push"
+    ],
+    "chosung": "ㄷㅂㅅㄷㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 43,
+    "name": "아놀드 프레스",
+    "group": "어깨",
+    "equipment": "덤벨",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "push"
+    ],
+    "chosung": "ㅇㄴㄷㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 44,
+    "name": "숄더프레스 머신",
+    "group": "어깨",
+    "equipment": "머신",
+    "restSeconds": 120,
+    "tags": [
+      "machine",
+      "push"
+    ],
+    "chosung": "ㅅㄷㅍㄹㅅㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 45,
+    "name": "스미스 숄더프레스",
+    "group": "어깨",
+    "equipment": "머신",
+    "restSeconds": 120,
+    "tags": [
+      "machine",
+      "push"
+    ],
+    "chosung": "ㅅㅁㅅㅅㄷㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 46,
+    "name": "사이드 레터럴 레이즈",
+    "group": "어깨",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "side-delt"
+    ],
+    "chosung": "ㅅㅇㄷㄹㅌㄹㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 47,
+    "name": "케이블 레터럴 레이즈",
+    "group": "어깨",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "cable",
+      "side-delt"
+    ],
+    "chosung": "ㅋㅇㅂㄹㅌㄹㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 48,
+    "name": "레터럴 레이즈 머신",
+    "group": "어깨",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "machine",
+      "side-delt"
+    ],
+    "chosung": "ㄹㅌㄹㄹㅇㅈㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 49,
+    "name": "프론트 레이즈",
+    "group": "어깨",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "front-delt"
+    ],
+    "chosung": "ㅍㄹㅌㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 50,
+    "name": "벤트오버 레터럴 레이즈",
+    "group": "어깨",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "rear-delt"
+    ],
+    "chosung": "ㅂㅌㅇㅂㄹㅌㄹㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 51,
+    "name": "리어델트 플라이 머신",
+    "group": "어깨",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "machine",
+      "rear-delt"
+    ],
+    "chosung": "ㄹㅇㄷㅌㅍㄹㅇㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 52,
+    "name": "업라이트 로우",
+    "group": "어깨",
+    "equipment": "바벨",
+    "restSeconds": 90,
+    "tags": [
+      "compound"
+    ],
+    "chosung": "ㅇㄹㅇㅌㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 53,
+    "name": "케이블 업라이트 로우",
+    "group": "어깨",
+    "equipment": "케이블",
+    "restSeconds": 90,
+    "tags": [
+      "cable"
+    ],
+    "chosung": "ㅋㅇㅂㅇㄹㅇㅌㄹㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 54,
+    "name": "바벨컬",
+    "group": "팔",
+    "equipment": "바벨",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "biceps"
+    ],
+    "chosung": "ㅂㅂㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 55,
+    "name": "이지바 컬",
+    "group": "팔",
+    "equipment": "바벨",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "biceps"
+    ],
+    "chosung": "ㅇㅈㅂㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 56,
+    "name": "덤벨컬",
+    "group": "팔",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "biceps"
+    ],
+    "chosung": "ㄷㅂㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 57,
+    "name": "해머컬",
+    "group": "팔",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "biceps",
+      "forearm"
+    ],
+    "chosung": "ㅎㅁㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 58,
+    "name": "인클라인 덤벨컬",
+    "group": "팔",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "biceps"
+    ],
+    "chosung": "ㅇㅋㄹㅇㄷㅂㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 59,
+    "name": "컨센트레이션 컬",
+    "group": "팔",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "biceps"
+    ],
+    "chosung": "ㅋㅅㅌㄹㅇㅅㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 60,
+    "name": "프리처 컬 머신",
+    "group": "팔",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "machine",
+      "biceps"
+    ],
+    "chosung": "ㅍㄹㅊㅋㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 61,
+    "name": "케이블컬",
+    "group": "팔",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "biceps",
+      "cable"
+    ],
+    "chosung": "ㅋㅇㅂㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 62,
+    "name": "트라이셉스 푸시다운",
+    "group": "팔",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "triceps",
+      "cable"
+    ],
+    "chosung": "ㅌㄹㅇㅅㅅㅍㅅㄷㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 63,
+    "name": "로프 푸시다운",
+    "group": "팔",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "triceps",
+      "cable"
+    ],
+    "chosung": "ㄹㅍㅍㅅㄷㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 64,
+    "name": "로프 암풀다운",
+    "group": "등",
+    "equipment": "케이블",
+    "restSeconds": 90,
+    "tags": [
+      "isolation",
+      "lats",
+      "cable"
+    ],
+    "chosung": "ㄹㅍㅇㅍㄷㅇ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 65,
+    "name": "클로즈그립 벤치프레스",
+    "group": "팔",
+    "equipment": "바벨",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "triceps"
+    ],
+    "chosung": "ㅋㄹㅈㄱㄹㅂㅊㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 66,
+    "name": "라잉 트라이셉스 익스텐션",
+    "group": "팔",
+    "equipment": "바벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "triceps"
+    ],
+    "chosung": "ㄹㅇㅌㄹㅇㅅㅅㅇㅅㅌㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 67,
+    "name": "오버헤드 트라이셉스 익스텐션",
+    "group": "팔",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "triceps"
+    ],
+    "chosung": "ㅇㅂㅎㄷㅌㄹㅇㅅㅅㅇㅅㅌㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 68,
+    "name": "덤벨 킥백",
+    "group": "팔",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "triceps"
+    ],
+    "chosung": "ㄷㅂㅋㅂ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 69,
+    "name": "딥스 머신",
+    "group": "팔",
+    "equipment": "머신",
+    "restSeconds": 90,
+    "tags": [
+      "machine",
+      "triceps"
+    ],
+    "chosung": "ㄷㅅㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 70,
+    "name": "리버스 컬",
+    "group": "팔",
+    "equipment": "바벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "forearm"
+    ],
+    "chosung": "ㄹㅂㅅㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 71,
+    "name": "리스트 컬",
+    "group": "팔",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "forearm"
+    ],
+    "chosung": "ㄹㅅㅌㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 72,
+    "name": "스쿼트",
+    "group": "하체",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "quad",
+      "glute"
+    ],
+    "chosung": "ㅅㅋㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 73,
+    "name": "프론트 스쿼트",
+    "group": "하체",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "quad"
+    ],
+    "chosung": "ㅍㄹㅌㅅㅋㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 74,
+    "name": "스미스 스쿼트",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 180,
+    "tags": [
+      "machine",
+      "quad",
+      "glute"
+    ],
+    "chosung": "ㅅㅁㅅㅅㅋㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 75,
+    "name": "레그프레스",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 150,
+    "tags": [
+      "machine",
+      "quad",
+      "glute"
+    ],
+    "chosung": "ㄹㄱㅍㄹㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 76,
+    "name": "핵 스쿼트 머신",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 150,
+    "tags": [
+      "machine",
+      "quad"
+    ],
+    "chosung": "ㅎㅅㅋㅌㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 77,
+    "name": "루마니안 데드리프트",
+    "group": "하체",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "hamstring",
+      "glute"
+    ],
+    "chosung": "ㄹㅁㄴㅇㄷㄷㄹㅍㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 78,
+    "name": "스티프레그 데드리프트",
+    "group": "하체",
+    "equipment": "바벨",
+    "restSeconds": 180,
+    "tags": [
+      "compound",
+      "hamstring"
+    ],
+    "chosung": "ㅅㅌㅍㄹㄱㄷㄷㄹㅍㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 79,
+    "name": "레그 익스텐션",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "quad",
+      "machine"
+    ],
+    "chosung": "ㄹㄱㅇㅅㅌㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 80,
+    "name": "레그 컬",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "hamstring",
+      "machine"
+    ],
+    "chosung": "ㄹㄱㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 81,
+    "name": "시티드 레그 컬",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "hamstring",
+      "machine"
+    ],
+    "chosung": "ㅅㅌㄷㄹㄱㅋ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 82,
+    "name": "덤벨 런지",
+    "group": "하체",
+    "equipment": "덤벨",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "quad",
+      "glute"
+    ],
+    "chosung": "ㄷㅂㄹㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 83,
+    "name": "워킹 런지",
+    "group": "하체",
+    "equipment": "덤벨",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "quad",
+      "glute"
+    ],
+    "chosung": "ㅇㅋㄹㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 84,
+    "name": "불가리안 스플릿 스쿼트",
+    "group": "하체",
+    "equipment": "덤벨",
+    "restSeconds": 120,
+    "tags": [
+      "compound",
+      "quad",
+      "glute"
+    ],
+    "chosung": "ㅂㄱㄹㅇㅅㅍㄹㅅㅋㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 85,
+    "name": "힙 쓰러스트",
+    "group": "하체",
+    "equipment": "바벨",
+    "restSeconds": 150,
+    "tags": [
+      "compound",
+      "glute"
+    ],
+    "chosung": "ㅎㅆㄹㅅㅌ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 86,
+    "name": "힙 어브덕션 머신",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "machine",
+      "glute"
+    ],
+    "chosung": "ㅎㅇㅂㄷㅅㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 87,
+    "name": "카프 레이즈 머신",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "calf",
+      "machine"
+    ],
+    "chosung": "ㅋㅍㄹㅇㅈㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 88,
+    "name": "시티드 카프 레이즈",
+    "group": "하체",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "calf",
+      "machine"
+    ],
+    "chosung": "ㅅㅌㄷㅋㅍㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 89,
+    "name": "덤벨 카프 레이즈",
+    "group": "하체",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "calf"
+    ],
+    "chosung": "ㄷㅂㅋㅍㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": true
+  },
+  {
+    "id": 90,
+    "name": "크런치",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "bodyweight",
+      "abs"
+    ],
+    "chosung": "ㅋㄹㅊ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 91,
+    "name": "케이블 크런치",
+    "group": "복근",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "cable",
+      "abs"
+    ],
+    "chosung": "ㅋㅇㅂㅋㄹㅊ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 92,
+    "name": "디클라인 싯업",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "bodyweight",
+      "abs"
+    ],
+    "chosung": "ㄷㅋㄹㅇㅅㅇ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 93,
+    "name": "행잉 레그레이즈",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "bodyweight",
+      "lower-abs"
+    ],
+    "chosung": "ㅎㅇㄹㄱㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 94,
+    "name": "캡틴스 체어 레그레이즈",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "bodyweight",
+      "lower-abs"
+    ],
+    "chosung": "ㅋㅌㅅㅊㅇㄹㄱㄹㅇㅈ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 95,
+    "name": "리버스 크런치",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "bodyweight",
+      "lower-abs"
+    ],
+    "chosung": "ㄹㅂㅅㅋㄹㅊ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 96,
+    "name": "앱 휠 롤아웃",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "compound",
+      "bodyweight",
+      "abs"
+    ],
+    "chosung": "ㅇㅎㄹㅇㅇ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 97,
+    "name": "플랭크",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "bodyweight",
+      "abs",
+      "core"
+    ],
+    "chosung": "ㅍㄹㅋ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 98,
+    "name": "러시안 트위스트",
+    "group": "복근",
+    "equipment": "덤벨",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "oblique"
+    ],
+    "chosung": "ㄹㅅㅇㅌㅇㅅㅌ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 99,
+    "name": "사이드 플랭크",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "bodyweight",
+      "oblique"
+    ],
+    "chosung": "ㅅㅇㄷㅍㄹㅋ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 100,
+    "name": "케이블 우드찹",
+    "group": "복근",
+    "equipment": "케이블",
+    "restSeconds": 60,
+    "tags": [
+      "isolation",
+      "cable",
+      "oblique"
+    ],
+    "chosung": "ㅋㅇㅂㅇㄷㅊ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 101,
+    "name": "앱 크런치 머신",
+    "group": "복근",
+    "equipment": "머신",
+    "restSeconds": 60,
+    "tags": [
+      "machine",
+      "abs"
+    ],
+    "chosung": "ㅇㅋㄹㅊㅁㅅ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 102,
+    "name": "토즈 투 바",
+    "group": "복근",
+    "equipment": "맨몸",
+    "restSeconds": 60,
+    "tags": [
+      "compound",
+      "bodyweight",
+      "abs"
+    ],
+    "chosung": "ㅌㅈㅌㅂ",
+    "inputType": "weight",
+    "countsVolume": false
+  },
+  {
+    "id": 103,
+    "name": "러닝머신",
+    "group": "유산소",
+    "equipment": "유산소",
+    "restSeconds": 0,
+    "tags": [
+      "cardio",
+      "treadmill"
+    ],
+    "chosung": "ㄹㄴㅁㅅ",
+    "inputType": "cardio",
+    "countsVolume": false
+  },
+  {
+    "id": 104,
+    "name": "사이클",
+    "group": "유산소",
+    "equipment": "유산소",
+    "restSeconds": 0,
+    "tags": [
+      "cardio",
+      "bike"
+    ],
+    "chosung": "ㅅㅇㅋ",
+    "inputType": "cardio",
+    "countsVolume": false
+  },
+  {
+    "id": 105,
+    "name": "일립티컬",
+    "group": "유산소",
+    "equipment": "유산소",
+    "restSeconds": 0,
+    "tags": [
+      "cardio"
+    ],
+    "chosung": "ㅇㄹㅌㅋ",
+    "inputType": "cardio",
+    "countsVolume": false
+  },
+  {
+    "id": 106,
+    "name": "로잉머신",
+    "group": "유산소",
+    "equipment": "유산소",
+    "restSeconds": 0,
+    "tags": [
+      "cardio",
+      "rowing"
+    ],
+    "chosung": "ㄹㅇㅁㅅ",
+    "inputType": "cardio",
+    "countsVolume": false
+  },
+  {
+    "id": 107,
+    "name": "스텝밀",
+    "group": "유산소",
+    "equipment": "유산소",
+    "restSeconds": 0,
+    "tags": [
+      "cardio",
+      "stair"
+    ],
+    "chosung": "ㅅㅌㅁ",
+    "inputType": "cardio",
+    "countsVolume": false
+  },
+  {
+    "id": 108,
+    "name": "실외 러닝",
+    "group": "유산소",
+    "equipment": "유산소",
+    "restSeconds": 0,
+    "tags": [
+      "cardio",
+      "outdoor"
+    ],
+    "chosung": "ㅅㅇㄹㄴ",
+    "inputType": "cardio",
+    "countsVolume": false
+  }
+]

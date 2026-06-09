@@ -1,0 +1,9 @@
+﻿[
+  {"id":1,"name":"가슴","color":"#FF6B6B","countsVolume":true,"sortOrder":0},
+  {"id":2,"name":"등","color":"#4ECDC4","countsVolume":true,"sortOrder":1},
+  {"id":3,"name":"어깨","color":"#FFBE0B","countsVolume":true,"sortOrder":2},
+  {"id":4,"name":"팔","color":"#FF9F1C","countsVolume":true,"sortOrder":3},
+  {"id":5,"name":"하체","color":"#2EC4B6","countsVolume":true,"sortOrder":4},
+  {"id":6,"name":"복근","color":"#8B5CF6","countsVolume":false,"sortOrder":5},
+  {"id":7,"name":"유산소","color":"#6B7280","countsVolume":false,"sortOrder":6}
+]
