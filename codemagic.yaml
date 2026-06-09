@@ -10,6 +10,9 @@ workflows:
       - name: Get Flutter packages
         script: flutter pub get
 
+      - name: Generate iOS config (Generated.xcconfig)
+        script: flutter build ios --config-only
+
       - name: Fix deployment targets & bitcode
         script: |
           find ios -name "*.pbxproj" -exec \
