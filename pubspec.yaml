@@ -15,8 +15,8 @@ dependencies:
   riverpod_annotation: ^2.3.5
 
   # 로컬 DB (SQLite)
-  drift: ^2.18.0
-  drift_flutter: ^0.2.1
+  drift: ^2.26.0
+  drift_flutter: ^0.2.7
   sqlite3_flutter_libs: ^0.5.24
 
   # 라우팅
@@ -46,7 +46,7 @@ dev_dependencies:
 
   # 코드 생성
   build_runner: ^2.4.11
-  drift_dev: ^2.18.0
+  drift_dev: ^2.26.0
   riverpod_generator: ^2.4.3
   custom_lint: ^0.6.4
   riverpod_lint: ^2.3.13
